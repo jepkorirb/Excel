@@ -1,4 +1,4 @@
-<img width="581" height="345" alt="image" src="https://github.com/user-attachments/assets/57a3f1fe-cefc-4753-8baa-b8202a020fc6" /># Student Marks Analysis
+
 ## Project overview
 
 This project analyze student marks  using microsoft excel
@@ -39,14 +39,19 @@ The data set contain students name and marks in:
 
 
 
-  ## Tools used
- - Microsoft Excel
- - Git
- - Github
+  ## Tools used and Technologies
+ **Microsoft Excel**: was use to analyze student performance
+ **Git**: track changes in coding
+ **Github**: store and share coding online
    # Challanges
    - creating a pivot table in Excel
    - uploadining a project file to Github
    - Cleaning and Organizing Student marks
+     ## Solution
+    - We learn and do more practice on uploading a project file to Github
+    - We learn how to clean in a easier way
+     
+     
      ## Contributors
      Brenda Kimuge
      
